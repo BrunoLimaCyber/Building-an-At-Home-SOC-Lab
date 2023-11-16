@@ -15,9 +15,9 @@ In this lab, I created an at-home SOC lab environment using VirtualBox. This SOC
 
 <h2>VMs Environments Created</h2>
 
-- <b>Linux VM</b> (21H2)
-- <b>Windows 2019 VM</b> (21H2)
-- <b>Windows 10 VM</b> (21H2)
+- <b>Linux VM</b>
+- <b>Windows 2019 VM</b>
+- <b>Windows 10 VM</b>
 
 <h2>Program walk-through:</h2>
 
