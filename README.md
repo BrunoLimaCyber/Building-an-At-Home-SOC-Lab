@@ -2,18 +2,22 @@
 
 <h2>Description</h2>
 In this lab, I created an at-home SOC lab environment using VirtualBox. This SOC lab contains pfSense, Active Directory, a Windows Workstation, Sysmon, and CrowdSec.
-
 <br />
 
+<h2>Skills Used</h2>
 
-<h2>Languages and Utilities Used</h2>
-
+- <b>Virtual Machine creation</b>
+- <b>Linux Command Line</b>
 - <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>Windows Cmd</b>
+- <b>Active Directory</b>
+- <b>pfSense</b> 
 
-<h2>Environments Used </h2>
+<h2>VMs Environments Created</h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Linux VM</b> (21H2)
+- <b>Windows 2019 VM</b> (21H2)
+- <b>Windows 10 VM</b> (21H2)
 
 <h2>Program walk-through:</h2>
 
