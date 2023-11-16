@@ -19,7 +19,7 @@ In this lab, I created an at-home SOC lab environment using VirtualBox. This SOC
 - <b>Windows 2019 VM</b>
 - <b>Windows 10 VM</b>
 
-<h2>Program walk-through:</h2>
+<h2>Lab Walk-through:</h2>
 
 <p align="center">
 Launch the utility: <br/>
